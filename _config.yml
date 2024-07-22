@@ -1,3 +1,5 @@
+---
+theme:          minima
 destination:    ./_site
 lsi:            false
 pygments:       true
@@ -5,3 +7,4 @@ markdown:       maruku
 permalink:      pretty
 extensions:     true
 exclude:        ['Rakefile', 'README.markdown', 'TODO.markdown', '_drafts', 'projects']
+---
